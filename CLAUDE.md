@@ -12,6 +12,23 @@
 
 ---
 
+## 저장 디렉토리 구조
+
+모든 TIL 글은 다음 경로에 저장한다:
+
+```
+/Users/ingjobs/archive/자료/<파일명>.md
+```
+
+예시:
+```
+/Users/ingjobs/archive/자료/Compose-Tooling-라이브러리.md
+/Users/ingjobs/archive/자료/Collection-fold-reduce.md
+/Users/ingjobs/archive/자료/Server-Component.md
+```
+
+---
+
 ## 파일명 규칙
 
 - 한글 그대로 사용한다.
